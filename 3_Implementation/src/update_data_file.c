@@ -1,4 +1,4 @@
-#include "prototypes.h"
+#include "header.h"
 
 error_t update_data_file(FILE **fptr, int id){
 
